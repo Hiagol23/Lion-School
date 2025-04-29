@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lion-school</string>
+    <string name="lionschool">Lion School</string>
+    <string name="titulo">Encontre seu curso favorito</string>
+    <string name="descricao">Chegue mais rápido ao seu destino, estude na melhor escola profissionalizante do Brasil. Seja a melhor versão de si mesmo.</string>
+    <string name="botao">Comece</string>
+
+</resources>

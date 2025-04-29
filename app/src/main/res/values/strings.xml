@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Lion-school</string>
+    <string name="lionschool">Lion\nSchool</string>
+    <string name="titulo">Find your favorite course</string>
+    <string name="descricao">Get to your destination faster, study at the best vocational school in Brazil. Be the best version of yourself.</string>
+    <string name="botao">Get Started</string>
+    <string name="pesquisa">Find your course</string>
+    <string name="pesquisa_aluno">Find a student</string>
+    <string name="ds">DS</string>
+    <string name="rds">RDS</string>
+    <string name="ele">ELE</string>
+    <string name="titulods">Desenvolvimento de sistemas</string>
+    <string name="titulords">Redes de Computadores</string>
+    <string name="tituloele">Eletroeletrônica</string>
+    <string name="subtitulods">Learn to develop web and mobile applications.</string>
+    <string name="subtitulords">Learn to design communication networks.</string>
+    <string name="subtituloele">Learn to design communication networks.</string>
+    <string name="semestre">3 semesters</string>
+    <string name="students_list">Students List</string>
+    <string name="all">All</string>
+    <string name="studying">Studying</string>
+    <string name="finished">Finished</string>
+    <string name="description_image">Image Lion School</string>
+</resources>
